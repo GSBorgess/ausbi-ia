@@ -1,6 +1,6 @@
 # Projeto AUSBI
 
-![ausbi-image]()
+![ausbi-image](/client//public/ausbi-image.png)
 
 [Visite o projeto]()
 
